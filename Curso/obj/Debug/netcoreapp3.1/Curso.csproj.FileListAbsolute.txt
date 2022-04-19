@@ -1,0 +1,5 @@
+C:\workspace-vs\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.csproj.AssemblyReference.cache
+C:\workspace-vs\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace-vs\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.AssemblyInfoInputs.cache
+C:\workspace-vs\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.AssemblyInfo.cs
+C:\workspace-vs\Curso\Curso\obj\Debug\netcoreapp3.1\Curso.csproj.CoreCompileInputs.cache
